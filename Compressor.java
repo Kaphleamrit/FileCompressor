@@ -1,0 +1,6 @@
+/**
+ * Compressor
+ */
+public class Compressor {
+
+}
